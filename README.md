@@ -2,3 +2,5 @@
 CS673 Software Engineering LAB 1
 
 Basics of distributed version control using  Git and Github
+
+Editing README.md using text editor.
